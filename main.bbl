@@ -1,0 +1,171 @@
+%
+% This bibliography was produced by using jureco.bst
+%
+\begin{thebibliography}{}
+
+\backrefparscanfalse
+\bibitem[{Bächle\jbbtasep Kolb\jbdy {2010}}%
+         {}%
+         {{0}{}{book}{2010}{aktualisierte und erw}{}{}{}%
+          {München, Oldenburg\bpubaddr {} Lehrbuch kompakt}}%
+         {{Einführung in die Wirtschaftsinformatik 2}%
+          {}{}{2}{}{}{}{}{}}%
+        ]{baechle2010}
+ \jbbibargs {\bibnf {Bächle} {Michael} {M.} {} {}\Bibbtasep \bibnf {Kolb}
+  {Arthur} {A.} {} {}\bibYear {2010}} {Michael BächleArthur Kolb} {aus}
+  {sexless} {\bibtfont {Einführung in die Wirtschaftsinformatik 2}\bibatsep {}
+  \jbedition {aktualisierte und erw~\editionname {}\jbaensep}  \apyformat
+  {München, Oldenburg\jbpublisher{\bpubaddr {} Lehrbuch kompakt}}}
+  {\bibhowcited} \jbdoitem {{Bächle}{Michael}{M.}{}{}; {Kolb}{Arthur}{A.}{}{}}
+  {} {} \bibAnnoteFile {baechle2010}
+
+\backrefparscanfalse
+\bibitem[{Benlian\jbdy {2013}}%
+         {}%
+         {{0}{}{misc}{2013}{}{}{}{}%
+          {}}%
+         {{Abschlussveranstaltung Seminar Lean IT Management}%
+          {}{}{2}{}{}{}{}{}}%
+        ]{benlian2013}
+ \jburldef
+  {benlian2013}{http://www.ise.tu-darmstadt.de/ise/news_details_133825.de.jsp}%
+ \jbbibargs {\bibnf {Benlian} {Alexander} {A.} {} {}\bibYear {2013}} {Alexander
+  Benlian} {au} {sexless} {\bibtfont {Abschlussveranstaltung Seminar Lean IT
+  Management}\bibatsep {}  \jburluse {benlian2013}} {\bibhowcited} \jbdoitem
+  {{Benlian}{Alexander}{A.}{}{}} {} {} \bibAnnoteFile {benlian2013}
+
+\backrefparscanfalse
+\bibitem[{Broadbent, et. al}%
+         {}%
+         {{0}{}{inproceedings}{1996}{}{}{}{}%
+          {}}%
+         {{Firm context and patterns of IT infrastructure capability}%
+          {}{}{2}{}{}{}{}{}}%
+        ]{broadbent1996}
+ \jbbibargs {\bibnf {Broadbent} {Marianne} {M.} {} {}\bibIMfont
+  {\Bibetal}\bibYear {1996}} {Marianne BroadbentPeter WeillTim O'Brientest
+  Test} {aus} {sexless} {\bibapifont {Firm context and patterns of IT
+  infrastructure capability}\bibatsep {} \incolledformat {}{}{\bibbtfont
+  {Proceedings of the International Conference on Information Systems}\bibatsep
+  {} }{}{}   \apyformat {\jbpublisher{Society for Information Management}} }
+  {\bibhowcited} \jbdoitem {{Broadbent}{Marianne}{M.}{}{};
+  {Weill}{Peter}{P.}{}{}; {O'Brien}{Tim}{T.}{}{}; {Test}{test}{t.}{}{}} {} {}
+  \bibAnnoteFile {broadbent1996}
+
+\backrefparscanfalse
+\bibitem[{Carnap\jbdy {1974}}%
+         {}%
+         {{0}{}{book}{1974}{unveränd.}{}{}{}%
+          {Hamburg\bpubaddr {} Meiner}}%
+         {{Der logische Aufbau der Welt}%
+          {}{}{2}{}{}{}{}{}}%
+        ]{carnap1974}
+ \jbbibargs {\bibnf {Carnap} {Rudolph} {R.} {} {}\bibYear {1974}} {Rudolph
+  Carnap} {au} {sexless} {\bibtfont {Der logische Aufbau der Welt}\bibatsep {}
+  \jbedition {unveränd.~\editionname {}\jbaensep}  \apyformat
+  {Hamburg\jbpublisher{\bpubaddr {} Meiner}}} {\bibhowcited} \jbdoitem
+  {{Carnap}{Rudolph}{R.}{}{}} {} {} \bibAnnoteFile {carnap1974}
+
+\backrefparscanfalse
+\bibitem[{Eisenhardt\jbdy {1989}}%
+         {Academy of Management Review}%
+         {{0}{}{article}{1989}{}{}{}{532--550}%
+          {}}%
+         {{Building Theories from Case Study Research}%
+          {}{}{2}{}{}{}{}{}}%
+        ]{eisenhardt1989}
+ \jburldef
+  {eisenhardt1989}{http://search.ebscohost.com/login.aspx?direct=true&db=buh&AN=4308385&site=ehost-live}%
+ \jbbibargs {\bibnf {Eisenhardt} {Kathleen~M.} {K.~M.} {} {}\bibYear {1989}}
+  {Kathleen~M. Eisenhardt} {au} {sexless} {\bibapifont {Building Theories from
+  Case Study Research}\bibatsep {} \bibJTsep \bibjtfont {Academy of Management
+  Review}\ajtsep {}  \artvolumeformat {14}\artnumberformat {4}
+  \jbPages{532--550} \jburluse {eisenhardt1989}\jbissn {03637425}}
+  {\bibartperiodhowcited} \jbdoitem {{Eisenhardt}{Kathleen~M.}{K.~M.}{}{}} {}
+  {} \bibAnnoteFile {eisenhardt1989}
+
+\backrefparscanfalse
+\bibitem[{Kayser\jbdy {2013}}%
+         {}%
+         {{0}{}{inbook}{2013}{}{}{}{569--585}%
+          {Baden-Baden\bpubaddr {} Nomos \& Schulthess}}%
+         {{Finanzderivate nach luxemburgischen Recht}%
+          {}{}{2}{}{}{}{}{}}%
+        ]{kayser2013}
+ \jbbibargs {\bibnf {Kayser} {Nicki} {N.} {} {}\bibYear {2013}} {Nicki Kayser}
+  {au} {sexless} {\bibapifont {Finanzderivate nach luxemburgischen
+  Recht}\bibatsep {}  \volumeformat {3}  \apyformat
+  {Baden-Baden\jbpublisher{\bpubaddr {} Nomos \& Schulthess}}
+  \jbPages{569--585} } {\bibhowcited} \jbdoitem {{Kayser}{Nicki}{N.}{}{}} {} {}
+  \bibAnnoteFile {kayser2013}
+
+\backrefparscanfalse
+\bibitem[{Melão\jbbtasep Pidd\jbdy {2000}}%
+         {Information Systems Journal}%
+         {{0}{}{article}{2000}{}{}{}{105--129}%
+          {}}%
+         {{A conceptual framework for understanding business processes and
+  business process modelling}%
+          {}{}{2}{}{}{}{}{}}%
+        ]{melao2000}
+ \jburldef {melao2000}{http://dx.doi.org/10.1046/j.1365-2575.2000.00075.x}%
+ \jbbibargs {\bibnf {Melão} {Nuno} {N.} {} {}\Bibbtasep \bibnf {Pidd}
+  {Michael} {M.} {} {}\bibYear {2000}} {Nuno MelãoMichael Pidd} {aus}
+  {sexless} {\bibapifont {A conceptual framework for understanding business
+  processes and business process modelling}\bibatsep {} \bibJTsep \bibjtfont
+  {Information Systems Journal}\ajtsep {}  \artvolumeformat
+  {10}\artnumberformat {2} \jbPages{105--129} \jburluse {melao2000}\jbissn
+  {1365--2575}} {\bibartperiodhowcited} \jbdoitem {{Melão}{Nuno}{N.}{}{};
+  {Pidd}{Michael}{M.}{}{}} {} {} \bibAnnoteFile {melao2000}
+
+\backrefparscanfalse
+\bibitem[{Shazly\jbdy {2013}}%
+         {}%
+         {{0}{}{phdthesis}{2013}{}{}{}{}%
+          {}}%
+         {{Launching New Ventures Using the Lean Startup Approach: Case Study
+  in the Application of the Lean Startup Approach and its Impact on Decisions
+  of Early Stage Investors}%
+          {}{}{2}{}{}{}{}{}}%
+        ]{shazly2013}
+ \jbbibargs {\bibnf {Shazly} {Omar~Sameh} {O.~S.} {} {}\bibYear {2013}}
+  {Omar~Sameh Shazly} {au} {sexless} {\bibtfont {Launching New Ventures Using
+  the Lean Startup Approach: Case Study in the Application of the Lean Startup
+  Approach and its Impact on Decisions of Early Stage Investors}\bibatsep {}
+  Thesis} {\bibhowcited} \jbdoitem {{Shazly}{Omar~Sameh}{O.~S.}{}{}} {} {}
+  \bibAnnoteFile {shazly2013}
+
+\backrefparscanfalse
+\bibitem[{Sheffi\jbdy {2005}}%
+         {}%
+         {{0}{}{book}{2005}{}{}{}{xiii}%
+          {Cambridge, London\bpubaddr {} MIT Press}}%
+         {{The Resilient Enterprise: Overcoming Vulnerability for Competitive
+  Advantage}%
+          {}{}{2}{}{}{}{}{}}%
+        ]{sheffi2005}
+ \jburldef
+  {sheffi2005}{http://search.ebscohost.com/login.aspx?direct=true&db=ecn&AN=0821721&site=ehost-live}%
+ \jbbibargs {\bibnf {Sheffi} {Yossi} {Y.} {} {}\bibYear {2005}} {Yossi Sheffi}
+  {au} {sexless} {\bibtfont {The Resilient Enterprise: Overcoming Vulnerability
+  for Competitive Advantage}\bibatsep {}  \apyformat {Cambridge,
+  London\jbpublisher{\bpubaddr {} MIT Press}} \jburluse {sheffi2005}
+  \jbPages{xiii}} {\bibhowcited} \jbdoitem {{Sheffi}{Yossi}{Y.}{}{}} {} {}
+  \bibAnnoteFile {sheffi2005}
+
+\backrefparscanfalse
+\bibitem[{Welchering\jbdy {2013}}%
+         {}%
+         {{0}{}{misc}{2013}{}{}{}{}%
+          {}}%
+         {{Einschreiben im Klarsichtumschlag}%
+          {}{}{2}{}{}{}{}{}}%
+        ]{welchering2013}
+ \jburldef
+  {welchering2013}{http://www.faz.net/aktuell/technik-motor/computer-internet/de-mail-einschreiben-im-klarsichtumschlag-12149204.html}%
+ \jbbibargs {\bibnf {Welchering} {Peter} {P.} {} {}\bibYear {2013}} {Peter
+  Welchering} {au} {sexless} {\bibtfont {Einschreiben im
+  Klarsichtumschlag}\bibatsep {}  \jburluse {welchering2013}} {\bibhowcited}
+  \jbdoitem {{Welchering}{Peter}{P.}{}{}} {} {} \bibAnnoteFile {welchering2013}
+
+\end{thebibliography}

@@ -1,0 +1,26 @@
+\select@language {ngerman}
+\contentsline {section}{\nonumberline Abbildungsverzeichnis}{v}{Doc-Start}
+\contentsline {section}{\nonumberline Tabellenverzeichnis}{vi}{Doc-Start}
+\contentsline {section}{\numberline {1}Einleitung}{1}{section.1}
+\contentsline {section}{\numberline {2}Grundlagen}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Gliederungen}{2}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Gliederungsebene 3}{2}{subsubsection.2.1.1}
+\contentsline {paragraph}{\numberline {2.1.1.1}Gliederungsebene 4}{2}{paragraph.2.1.1.1}
+\contentsline {subsection}{\numberline {2.2}Aufz\IeC {\"a}hlungen}{2}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Abbildungen}{3}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Tabellen}{3}{subsection.2.4}
+\contentsline {section}{\numberline {3}Entwicklung eines konzeptuellen Rahmens}{4}{section.3}
+\contentsline {subsection}{\numberline {3.1}Quellen und richtiges Zitieren}{4}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Zitieren mit Endnoten}{5}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Lateinischer Text mit Zitaten f\IeC {\"u}r Erstellung des Literaturverzeichnisses}{5}{subsubsection.3.2.1}
+\contentsline {subsection}{\numberline {3.3}Literaturrecherche}{5}{subsection.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Angebot der ULB}{5}{subsubsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Online-Datenbanken und -Bibliotheken}{6}{subsubsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3}Sonstiges}{6}{subsubsection.3.3.3}
+\contentsline {section}{\numberline {4}Forschungsmethoden}{7}{section.4}
+\contentsline {section}{\numberline {5}Forschungsergebnisse}{8}{section.5}
+\contentsline {section}{\numberline {6}Diskussion}{9}{section.6}
+\contentsline {section}{\numberline {7}Zusammenfassung und Ausblick}{10}{section.7}
+\contentsline {subsection}{\numberline {7.1}Abgabedokument}{10}{subsection.7.1}
+\contentsline {section}{Literatur}{I}{section*.3}
+\contentsline {section}{\numberline {A}Anhang}{II}{appendix.A}
